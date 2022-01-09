@@ -8,8 +8,6 @@ Whenever someone send you a video on Facebook Messenger, you can click on it to 
 
 [<img src="https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png">](todo)
 
-[<img src="https://blog.mozilla.org/addons/files/2020/04/get-the-addon-fx-apr-2020.svg" width="140">](todo)
-
 ## Developing
 
 Clone the repo, then:
@@ -24,7 +22,7 @@ $ npm run start-ff
 
 [MIT](https://github.com/ba32107/facebook-auto-unmute-video/blob/main/LICENSE)
 
-### Donate
+## Donate
 
  * PayPal: https://www.paypal.com/donate?hosted_button_id=8E2GR6WXHNY48
  * Buy Me A Coffee: https://www.buymeacoffee.com/ba32107
