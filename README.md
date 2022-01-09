@@ -2,7 +2,7 @@
 
 Automatically unmute full screen videos shared in messages.
 
-Whenever someone send you a video on Facebook Messenger, you can click on it to watch it full screen. However, for some reason the video full appear muted on full screen. This does not make sense, because you made it full screen precisely to watch it! This extension automatically unmutes the video whenever you make it full screen.
+Whenever someone send you a video on Facebook Messenger, you can click on it to maximize it and watch it full screen. However, for some reason, if you do this, the video will be muted. This extension automatically unmutes the video whenever you make it full screen.
 
 ## Installation
 
