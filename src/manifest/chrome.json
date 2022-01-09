@@ -1,0 +1,7 @@
+{
+    "manifest_version": 3,
+    "host_permissions": [
+        "https://*.messenger.com/*",
+        "https://*.facebook.com/*"
+    ]
+}

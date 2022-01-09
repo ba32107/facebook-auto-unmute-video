@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "permissions": [
+        "https://*.messenger.com/*",
+        "https://*.facebook.com/*"
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "facebook-auto-unmute-video@github.io"
+        }
+    }
+}
