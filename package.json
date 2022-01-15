@@ -1,6 +1,6 @@
 {
   "name": "facebook-auto-unmute-video",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Automatically unmute full screen videos shared in messages",
   "private": true,
   "repository": {
