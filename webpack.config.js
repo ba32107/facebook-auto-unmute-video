@@ -1,9 +1,7 @@
 const webpack = require("webpack")
 const path = require("path");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
-const HtmlWebpackPlugin = require("html-webpack-plugin");
 const CopyWebpackPlugin = require("copy-webpack-plugin");
-const WebpackObfuscator = require("webpack-obfuscator");
 const ESLintPlugin = require("eslint-webpack-plugin");
 
 module.exports = function (env) {
@@ -52,12 +50,6 @@ module.exports = function (env) {
             failOnError: isProduction
         }),
     ];
-
-    if (isProduction) {
-        plugins.push(new WebpackObfuscator({
-            rotateStringArray: true
-        }));
-    }
 
     return {
         mode: isProduction ? "production" : "development",
